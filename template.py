@@ -23,8 +23,8 @@ list_of_file = [
     "requirements_dev.txt",
     "setup.py",
     "setup.cfg",# for creating python package not for production 
-    "pyproject.toml" # for creating python package not for production
-    "tox.ini" # for testing the package localy
+    "pyproject.toml", # for creating python package not for production
+    "tox.ini", # for testing the package localy
     "research/trials.ipynb" # a jupyter note for testing anfd try
 
     ]
