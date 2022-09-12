@@ -16,7 +16,7 @@ list_of_file = [
     f"src/{package_name}/entity/__init__py"#, create script file 
     f"src/{package_name}/config/__init__py"#, create script file
     "configs/config.yaml",
-    "dvc.yam",
+    "dvc.yaml",
     "param.yaml",
     "init_setup.sh",# a shell script file, hel[s to create venv
     "requirements.txt",
