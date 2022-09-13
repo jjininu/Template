@@ -15,6 +15,9 @@ list_of_file = [
     f"src/{package_name}/pipline/__init__py"#, create script file
     f"src/{package_name}/entity/__init__py"#, create script file 
     f"src/{package_name}/config/__init__py"#, create script file
+    "tests/__init__.py",
+    "tests/unit/__init__.py", # to test a specific component
+    "tests/integration/__init__.py", # to test intesctions of two Component.
     "configs/config.yaml",
     "dvc.yaml",
     "param.yaml",
