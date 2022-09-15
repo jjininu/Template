@@ -9,6 +9,7 @@ package_name  = "deep classifier"
 
 list_of_file = [
     ".github/workflow/.gitkeep",# help to keep an emply folder , since you cant push emplty folder to remote repo.
+    f"src/{package_name}/__init__.py",
     f"src/{package_name}/components/__init__py",# create script file 
     f"src/{package_name}/utils/__init__py",# create script file
     f"src/{package_name}/constants/__init__py",# create script file 
