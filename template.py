@@ -5,7 +5,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s: ')
 
-package_name  = "deep classifier"
+package_name  = "deepClassifier"
 
 list_of_file = [
     ".github/workflow/.gitkeep",# help to keep an emply folder , since you cant push emplty folder to remote repo.
